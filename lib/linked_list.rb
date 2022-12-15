@@ -2,6 +2,7 @@
 
 require_relative 'node'
 
+# Custom class for non-native, ruby linked lists data structure
 class LinkedList
   attr_accessor :head
 
